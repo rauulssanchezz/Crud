@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271945145496",
+    "project_id": "pablitomiamor-60e16",
+    "storage_bucket": "pablitomiamor-60e16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271945145496:android:5471fa2cc9e8fcdaa604ed",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBSlE5PsEDQULFVDD7ztaAKz4uRnCLDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
