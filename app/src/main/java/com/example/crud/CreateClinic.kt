@@ -70,6 +70,7 @@ class CreateClinic : AppCompatActivity(), CoroutineScope {
                     Utilities.toastCourutine(this_activity,applicationContext,"Clinica creada con exito")
 
                     val activity=Intent(applicationContext,MainActivity::class.java)
+                    startActivity(activity)
                 }
             }
         }
