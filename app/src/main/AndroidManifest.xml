@@ -13,17 +13,20 @@
         android:theme="@style/Theme.Crud"
         tools:targetApi="31">
         <activity
-            android:name=".Club"
-            android:exported="false" />
-        <activity
-            android:name=".CrearClinica"
-            android:exported="true">
+            android:name=".MainActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Clinic"
+            android:exported="false" />
+        <activity
+            android:name=".CreateClinic"
+            android:exported="false"/>
     </application>
 
 </manifest>
